@@ -69,7 +69,7 @@ function App() {
                 onClick={showAdd}
                 className='text-slate-400 italic cursor-pointer'
               >
-                Add a task...
+                Tap to add a task...
               </h2>
             </div>
           )}
